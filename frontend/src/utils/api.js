@@ -139,6 +139,7 @@ class Api {
   }
   }
 
-const api = new Api('https://api.goncharov-mesto-plus.nomorepartiesco.ru');
+  // Импортируем класс Api, который отвечает за взаимодействие с сервером
+  const api = new Api('https://api.goncharov-mesto-plus.nomorepartiesco.ru');
 
   export default api;
