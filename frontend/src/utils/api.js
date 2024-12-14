@@ -138,7 +138,7 @@ class Api {
       .then(getResponse)
   }
   }
-  // Замените на адрес вашего бэкенда
+
 const api = new Api('https://api.goncharov-mesto-plus.nomorepartiesco.ru');
 
   export default api;
